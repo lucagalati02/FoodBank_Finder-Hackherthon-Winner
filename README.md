@@ -1,6 +1,6 @@
 # Food bank finding web application
 
-## Hackherthon Winner
+## Google Hackathon Winner
 
 Description: A web application that that connects individuals experiencing food insecurity with local food banks and pantries.
 
